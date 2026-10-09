@@ -1,8 +1,8 @@
 # Onboarding SACI 2026.2 - Hardware Hacking
 
 ## Dados do Candidato
-* **Nome:** [Seu Nome Completo]
-* **Curso:** [Seu Curso]
+* **Nome:** Larissa Silva Passos
+* **Curso:** Ciência da Computação
 * **Trilha:** Red Team
 
 ---
